@@ -1,0 +1,2 @@
+# Flying-Chicken-Game
+ It is a simple 2-D game played by keyboard.  A chicken falls vertically while trying to avoid cats randomly waiting on its path with an open mouth. During this journey, the chicken aims to hit targets appearing left and right sides of its path randomly by using its golden eggs. The eggs will be launched by its mouth. Once a target is hit, the player will get points according to the size of the target. The game has 3 levels, in the higher level the chicken falls faster, and the cats be more dangerous. of course the targets be more valuable
